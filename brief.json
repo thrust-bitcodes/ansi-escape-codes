@@ -1,0 +1,11 @@
+{
+    "description": "Helper for ANSI Escape Codes",
+    "name": "ansi-escape-codes",
+    "path": "index.js",
+    "version": "0.0.1",
+    "author": "Tarcísio Abadio de Magalhães Júnior",
+    "dependencies": {
+      "bitcodes": [],
+      "jars": []
+    }
+  }
